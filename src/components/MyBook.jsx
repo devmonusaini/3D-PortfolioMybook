@@ -6,7 +6,7 @@ import FirstPage from "./pages/Hero/FirstPage";
 import Skills from "./pages/Skills/Skills";
 import Services from "./pages/Services/Services";
 import About from "./pages/About/About";
-import Projects from "./pages/Projects/Projects";
+
 function MyBook(props) {
 	return (
 		<HTMLFlipBook width={600} height={700} showCover="true">
